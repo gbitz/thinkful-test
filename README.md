@@ -1,2 +1,1 @@
-# thinkful-test
-copy test repo
+# pizza
